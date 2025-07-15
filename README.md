@@ -15,7 +15,7 @@
 python oredrot.py --auto --target example@mail.com
 git clone https://github.com/webrootkit/OREDROT.git
 cd OREDROT && pip install -r reqs.txt
-
+```
 📜 ЛИЦЕНЗИЯ
 GNU AGPLv3 | (c) 2024 webrootkit
 За юзать в непонятках - получишь по ебалу
